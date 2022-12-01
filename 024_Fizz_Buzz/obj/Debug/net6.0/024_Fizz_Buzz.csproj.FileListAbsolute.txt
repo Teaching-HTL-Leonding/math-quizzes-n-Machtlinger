@@ -1,0 +1,15 @@
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\024_Fizz_Buzz\bin\Debug\net6.0\024_Fizz_Buzz.exe
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\024_Fizz_Buzz\bin\Debug\net6.0\024_Fizz_Buzz.deps.json
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\024_Fizz_Buzz\bin\Debug\net6.0\024_Fizz_Buzz.runtimeconfig.json
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\024_Fizz_Buzz\bin\Debug\net6.0\024_Fizz_Buzz.dll
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\024_Fizz_Buzz\bin\Debug\net6.0\024_Fizz_Buzz.pdb
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\024_Fizz_Buzz\obj\Debug\net6.0\024_Fizz_Buzz.csproj.AssemblyReference.cache
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\024_Fizz_Buzz\obj\Debug\net6.0\024_Fizz_Buzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\024_Fizz_Buzz\obj\Debug\net6.0\024_Fizz_Buzz.AssemblyInfoInputs.cache
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\024_Fizz_Buzz\obj\Debug\net6.0\024_Fizz_Buzz.AssemblyInfo.cs
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\024_Fizz_Buzz\obj\Debug\net6.0\024_Fizz_Buzz.csproj.CoreCompileInputs.cache
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\024_Fizz_Buzz\obj\Debug\net6.0\024_Fizz_Buzz.dll
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\024_Fizz_Buzz\obj\Debug\net6.0\refint\024_Fizz_Buzz.dll
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\024_Fizz_Buzz\obj\Debug\net6.0\024_Fizz_Buzz.pdb
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\024_Fizz_Buzz\obj\Debug\net6.0\024_Fizz_Buzz.genruntimeconfig.cache
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\024_Fizz_Buzz\obj\Debug\net6.0\ref\024_Fizz_Buzz.dll
