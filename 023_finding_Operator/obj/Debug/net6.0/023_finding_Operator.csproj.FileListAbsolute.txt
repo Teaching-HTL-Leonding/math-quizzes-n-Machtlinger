@@ -1,0 +1,15 @@
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\023_finding_Operator\bin\Debug\net6.0\023_finding_Operator.exe
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\023_finding_Operator\bin\Debug\net6.0\023_finding_Operator.deps.json
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\023_finding_Operator\bin\Debug\net6.0\023_finding_Operator.runtimeconfig.json
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\023_finding_Operator\bin\Debug\net6.0\023_finding_Operator.dll
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\023_finding_Operator\bin\Debug\net6.0\023_finding_Operator.pdb
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\023_finding_Operator\obj\Debug\net6.0\023_finding_Operator.csproj.AssemblyReference.cache
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\023_finding_Operator\obj\Debug\net6.0\023_finding_Operator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\023_finding_Operator\obj\Debug\net6.0\023_finding_Operator.AssemblyInfoInputs.cache
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\023_finding_Operator\obj\Debug\net6.0\023_finding_Operator.AssemblyInfo.cs
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\023_finding_Operator\obj\Debug\net6.0\023_finding_Operator.csproj.CoreCompileInputs.cache
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\023_finding_Operator\obj\Debug\net6.0\023_finding_Operator.dll
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\023_finding_Operator\obj\Debug\net6.0\refint\023_finding_Operator.dll
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\023_finding_Operator\obj\Debug\net6.0\023_finding_Operator.pdb
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\023_finding_Operator\obj\Debug\net6.0\023_finding_Operator.genruntimeconfig.cache
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\023_finding_Operator\obj\Debug\net6.0\ref\023_finding_Operator.dll
