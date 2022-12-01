@@ -1,0 +1,15 @@
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\025_Hailstone _Sequence\bin\Debug\net6.0\025_Hailstone _Sequence.exe
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\025_Hailstone _Sequence\bin\Debug\net6.0\025_Hailstone _Sequence.deps.json
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\025_Hailstone _Sequence\bin\Debug\net6.0\025_Hailstone _Sequence.runtimeconfig.json
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\025_Hailstone _Sequence\bin\Debug\net6.0\025_Hailstone _Sequence.dll
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\025_Hailstone _Sequence\bin\Debug\net6.0\025_Hailstone _Sequence.pdb
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\025_Hailstone _Sequence\obj\Debug\net6.0\025_Hailstone _Sequence.csproj.AssemblyReference.cache
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\025_Hailstone _Sequence\obj\Debug\net6.0\025_Hailstone _Sequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\025_Hailstone _Sequence\obj\Debug\net6.0\025_Hailstone _Sequence.AssemblyInfoInputs.cache
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\025_Hailstone _Sequence\obj\Debug\net6.0\025_Hailstone _Sequence.AssemblyInfo.cs
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\025_Hailstone _Sequence\obj\Debug\net6.0\025_Hailstone _Sequence.csproj.CoreCompileInputs.cache
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\025_Hailstone _Sequence\obj\Debug\net6.0\025_Hailstone _Sequence.dll
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\025_Hailstone _Sequence\obj\Debug\net6.0\refint\025_Hailstone _Sequence.dll
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\025_Hailstone _Sequence\obj\Debug\net6.0\025_Hailstone _Sequence.pdb
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\025_Hailstone _Sequence\obj\Debug\net6.0\025_Hailstone _Sequence.genruntimeconfig.cache
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\025_Hailstone _Sequence\obj\Debug\net6.0\ref\025_Hailstone _Sequence.dll
